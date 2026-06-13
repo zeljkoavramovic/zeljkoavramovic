@@ -6,11 +6,11 @@
 
 Available for contract work and consulting in:
 
-- **Embedded systems**: custom hardware design, firmware development, hardware bring-up, PCB design
-- **Industrial automation & process control**: PLC programming, HMI/SCADA, custom windows & linux software development
-- **Communication & protocol integration**: industrial protocols, custom cross platform protocol bridges & gateways
-- **Data acquisition & historians**: real-time trending and reporting systems
-- **Legacy system modernization**: bridging old and new systems, protocol translation, migration support
+- **Embedded systems** - custom hardware design, firmware development, hardware bring-up, PCB design
+- **Industrial automation & process control** - PLC programming, HMI/SCADA, custom windows & linux software development
+- **Communication & protocol integration** - industrial protocols, custom cross platform protocol bridges/gateways
+- **Data acquisition & historians** - real-time trending and reporting systems
+- **Legacy system modernization** - bridging old and new systems, protocol translation, migration support
 
 ## Tech Stack
 
